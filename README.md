@@ -1,2 +1,2 @@
 # delta.py
-This is demo for git &amp; github
+This is demo for git &amp; github.
